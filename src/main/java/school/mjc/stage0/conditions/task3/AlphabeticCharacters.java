@@ -11,7 +11,7 @@ public class AlphabeticCharacters {
                 System.out.println("Consonant");
             }
         } else {
-            System.out.println("wrong alphabet");
+            System.out.println("wrong alphabet!");
         }
     }
 }
